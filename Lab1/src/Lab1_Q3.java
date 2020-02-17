@@ -8,7 +8,7 @@ public class Lab1_Q3 {
 
 	public static void main(String[] args) {
 		
-		double[] x = {1,2,3,4,5,6,7};
+	    double[] x = {1,2,3,4,5,6,7};
 		
 	    System.out.println("Before rotation:  ==============================");
 	    
