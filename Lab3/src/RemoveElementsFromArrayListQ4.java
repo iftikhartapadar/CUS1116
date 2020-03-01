@@ -3,7 +3,6 @@ import java.util.List;
 import java.util.function.Predicate;
 
 public class RemoveElementsFromArrayListQ4 {
-	
     public static void main(String[] args) {
     	
         List<String> programmingLanguages = new ArrayList<>();

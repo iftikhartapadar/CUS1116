@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CreateArrayListQ1 {
-
 	public static void main(String[] args) {
 		
 		// Creating an ArrayList of String
