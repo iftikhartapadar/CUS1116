@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.ListIterator;
 
 public class IterateOverArrayListQ5 {
-	
     public static void main(String[] args) {
     	
         List<String> tvShows = new ArrayList<>();
