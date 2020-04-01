@@ -29,7 +29,6 @@ public class Letter
         this.to = to;
     }
 
-
     /**
      Appends a line of text to the message body.
      @param line the line to append
