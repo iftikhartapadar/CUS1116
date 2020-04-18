@@ -104,6 +104,7 @@ public class SeatingChart
           //Prints message to user
           System.out.printf("This seat [%d, %d] is available. It is your's.\n", row, column);
       }
+
       else
       {
           //Prints if it is invalid
@@ -141,6 +142,7 @@ public class SeatingChart
          {
             sellSeatByNumber(seats);
          }
+
          else
          {
             // pick by price
@@ -148,6 +150,7 @@ public class SeatingChart
             int price = input.nextInt();
             sellSeatByPrice(seats, price);
          }
+
          printSeats(seats);
          System.out.println("Pick by seat or price or  to quit: ");
 

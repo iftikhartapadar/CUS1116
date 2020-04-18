@@ -15,5 +15,4 @@ public class TestLetter
         dearJohn.addLine("I wish you all the best.");
         dearJohn.print();
     }
-
 }
